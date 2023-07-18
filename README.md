@@ -6,7 +6,7 @@ This code is designed to rank resumes based on their similarity to a given keywo
 
 Before running this code, make sure you have the following:
 
-- [ ] TensorFlow and TensorFlow Hub installed
+- TensorFlow and TensorFlow Hub installed
 - PyPDF2 library installed
 - PDF resumes stored in a folder
 
