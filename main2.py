@@ -24,7 +24,7 @@ def calculate_similarity(keyword_embedding, resume_embedding):
     return similarity_score
 
 # Accept the folder path containing resumes
-folder_path = r"C:\\Users\\ayamu\\python programs\\pdf_keyword_searcher\\pdfs"
+folder_path = "YOUR_FOLDER_PATH"
 
 # Load or create the vector embedding data
 vector_data_path = "vector_data.pickle"
